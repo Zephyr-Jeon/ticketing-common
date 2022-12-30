@@ -1,6 +1,6 @@
 {
   "name": "@zj_ticketing/common",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "./build/index.js",
   "type": "./build/index.d.ts",
